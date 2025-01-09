@@ -2,7 +2,7 @@
 - 👀 I’m interested in specifically research and development basis projects.
 - 🌱 I’m currently learning about machine learning and deep learning.
 - 💞️ I’m looking to contribute in open source projects.
-- 📫 How to reach me :  via github     - @ALOK-INNoVATER
+- 📫 How to reach me :  via github     - @ALOK-INNOVATER
 -                        via   linkedin -www.linkedin.com/in/alok-singh-006baa328
 
 <!---
